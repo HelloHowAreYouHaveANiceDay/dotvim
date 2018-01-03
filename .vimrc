@@ -99,3 +99,4 @@
 :highlight Function ctermfg=lightgreen
 " }}}
 
+call vundle#begin()
